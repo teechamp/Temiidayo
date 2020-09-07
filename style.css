@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    margin:0 auto;
+    width: 960px;
+    background:#908ea0;
+}
+img{
+    margin:0 auto;
+    display: block;
+}
+   section{
+       background:white;
+       padding: 30px 60px;
+   }
+   p{
+       margin:20px 0;
+   }
